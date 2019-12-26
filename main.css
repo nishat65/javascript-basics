@@ -1,0 +1,12 @@
+body{
+    height: 200vh;
+    overflow: scroll;
+}
+
+div{
+    background-color: rgb(157, 157, 248);
+}
+
+.background {
+    background-color: brown;
+}
